@@ -7,9 +7,9 @@
 - Build with `npm run build`
 
 # Notes
-- Post name convention: `YYYY-MM-DD_post-title`
-- Post location `_posts/YYYY-MM-DD_post-title`
-- Post image location `public/assets/blog/YYYY-MM-DD_post-title`
+- Post name convention: `YYYY-MM-DD-post-title`
+- Post location `_posts/YYYY-MM-DD-post-title`
+- Post image location `public/assets/blog/YYYY-MM-DD-post-title`
 - Author images `100x100` black and white headshot
 - Post cover images `2000x1000`
 

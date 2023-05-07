@@ -1,13 +1,13 @@
 ---
 title: 'Hello, World!'
 excerpt: 'Introducing Pixel Pilgrim Studios!'
-coverImage: '/assets/blog/2023-05-06_hello-world/cover.png'
+coverImage: '/assets/blog/2023-05-06-hello-world/cover.png'
 date: '2023-05-06T15:01:07.000Z'
 author:
   name: Abraham Cuenca 
   picture: '/assets/blog/authors/abe.jpg'
 ogImage:
-  url: '/assets/blog/2023-05-06_hello-world/cover.png'
+  url: '/assets/blog/2023-05-06-hello-world/cover.png'
 ---
 
 This is the first official post for Pixel Pilgrim Studios!
@@ -19,7 +19,7 @@ I want to build my first official game, which I can self-publish to game stores.
 Most game dev tutorials on the web start with some platformer (think Super Mario Bros), but I wanted to do something different.
 
 My inspiration was the original Tamagotchi Virtual Pet
-![Tamagotchi](/assets/blog/2023-05-06_hello-world/tamagotchi.jpg)
+![Tamagotchi](/assets/blog/2023-05-06-hello-world/tamagotchi.jpg)
 
 Initially, this would be a mobile game since the target audience would be casual gamers with point-and-click/touch-based interactions.
 
