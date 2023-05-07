@@ -13,4 +13,7 @@
 - Author images `100x100` black and white headshot
 - Post cover images `2000x1000`
 
+## Tags for post types
+Progress Updates, Development, Milestone, Announcement
+
 - Based on [Next.js Blog-Starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter)
